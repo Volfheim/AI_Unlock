@@ -1,0 +1,7 @@
+id=AiUnlock
+name=AI Unlock
+version=4.5
+versionCode=27
+author=Volfheim
+description=Пассивный hosts-модуль для AI-сервисов и блокировки рекламы. Обновление и диагностика только по кнопке Magisk, без фоновых служб и изменения DNS.
+updateJson=https://raw.githubusercontent.com/Volfheim/AI_Unlock/main/update.json

@@ -1,0 +1,2 @@
+# Keep the Magisk module payload in Unix format.
+* text=auto eol=lf

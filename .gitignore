@@ -1,0 +1,10 @@
+# Generated and device-local data
+state/
+*.log
+*.zip
+*.part
+*.meta
+
+# Local PowerShell/editor files
+.vscode/
+.idea/
